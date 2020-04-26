@@ -10,7 +10,7 @@ def login():
 def screen(subjects):
 
 	empty = ""
-	for i in range(10):
+	for i in range(20):
 
 		empty += str(subjects[i].text)+"\n"
 
